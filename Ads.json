@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"IRON",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
@@ -27,10 +27,10 @@
   ],
   "Wallpaper": [
     {
-      "username":"rysasahrial99",
-      "dasboard_name":"supercar",
-      "dasboard_name2":"Nature",
-      "dasboard_name3":"Animal",
+      "username":"customprint99",
+      "dasboard_name":"Pink House Ideas",
+      "dasboard_name2":"null",
+      "dasboard_name3":"null",
       "dasboard_name4":"null",
       "dasboard_name5":"null",
       "dasboard_name6":"null",
@@ -42,55 +42,6 @@
   ],
     "More":
   [
-    {
-      "id":1,
-      "title":"Nature",
-      "image":"file:///android_asset/more/more1.png",
-      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
-    },
-    {
-      "id":2,
-      "title":"Beach",
-      "image":"file:///android_asset/more/more2.png",
-      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
-    },
-    {
-      "id":3,
-      "title":"Animals",
-      "image":"file:///android_asset/more/more3.png",
-      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
-    },
-    {
-      "id":4,
-      "title":"Super Car",
-      "image":"file:///android_asset/more/more4.png",
-      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
-    },
-    {
-      "id":5,
-      "title":"Space",
-      "image":"file:///android_asset/more/more5.png",
-      "link":"https://aliendro.id/"
-    },
-    {
-      "id":6,
-      "title":"Love Bird",
-      "image":"file:///android_asset/more/more6.png",
-      "link":"https://aliendro.id/"
-    }
-
-  ],
-  "Shop":
-  [
-    {
-      "id":1,
-      "image":"file:///android_asset/more/more1.png",
-      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
-    },
-    {
-      "id":2,
-      "image":"file:///android_asset/more/more2.png",
-      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
-    }
+    
   ]
 }
